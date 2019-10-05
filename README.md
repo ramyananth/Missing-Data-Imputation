@@ -5,8 +5,12 @@ Intuition:
 Medical data recorded when a person is admitted in the ICU is motivated by the intuition that it is proportional to the rate at which they are believed to be changed. For example, heart rate can change every minute but blood sugar level might change every four hours.
 
 
-SoftImpute Understanding
+SoftImpute Understanding:
+
 • Normalizing the data
+
 • Compute SVD
+
 • ALS Algorithm
+
 • Reconstruct Matrix
